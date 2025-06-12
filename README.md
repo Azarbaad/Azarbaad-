@@ -1,4 +1,4 @@
-# Azarbaad-
+# Data Analitics Practice
 # Hi there! I'm Zeinab Beigi 👋
 
 <div align="center">
@@ -8,8 +8,6 @@
 </div>
 
 ## 🎯 About Me
-
-Product Manager with a strong foundation in Data Analytics and Information Systems. I bridge the gap between technical implementation and business strategy, specializing in digital transformation and data-driven decision making.
 
 - 🔭 M.Sc. in Data Analytics and Information System Management at Arden University, Berlin
 - 🌱 Passionate about leveraging data to drive product decisions
@@ -26,6 +24,10 @@ tech_stack = {
     "Skills": ["Product Strategy", "A/B Testing", "User Acceptance Testing"]
 }
 ```
-kaggle link https://www.kaggle.com/zeinabbeigi
+kaggle link: https://www.kaggle.com/zeinabbeigi
+*1- Fashion Retail Sales Analysis*
+Trying to understand Retail data  that can sometimes reveal surprising behavior in consumer spending patterns. In this notebook, I explore a dataset of fashion retail sales. this analysis will take me through data loading, cleaning, visualization. my visualization focus on answering question "Are there seasonal trends in fashion sales?"
+
+
 
 
