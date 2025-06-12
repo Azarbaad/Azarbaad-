@@ -26,5 +26,6 @@ tech_stack = {
     "Skills": ["Product Strategy", "A/B Testing", "User Acceptance Testing"]
 }
 ```
+kaggle link https://www.kaggle.com/zeinabbeigi
 
 
