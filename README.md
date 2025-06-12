@@ -24,8 +24,9 @@ tech_stack = {
     "Skills": ["Product Strategy", "A/B Testing", "User Acceptance Testing"]
 }
 ```
-kaggle link: https://www.kaggle.com/zeinabbeigi
-*1- Fashion Retail Sales Analysis*
+kaggle link: https://www.kaggle.com/zeinabbeigi  
+  
+*1- Fashion Retail Sales Analysis*  
 Trying to understand Retail data  that can sometimes reveal surprising behavior in consumer spending patterns. In this notebook, I explore a dataset of fashion retail sales. this analysis will take me through data loading, cleaning, visualization. my visualization focus on answering question "Are there seasonal trends in fashion sales?"
 
 
